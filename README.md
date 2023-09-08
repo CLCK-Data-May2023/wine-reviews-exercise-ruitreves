@@ -3,7 +3,6 @@
 # wine-reviews
 Code Louisville Data Analysis Exercise
 
-
 ## Overivew
 
 In this exercise we will create a summary of wine reviews by country and write
